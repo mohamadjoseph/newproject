@@ -1,0 +1,22 @@
+body{
+    background-image: url(home2.jpg); 
+    background-size: cover;
+    
+}
+
+h1 {
+    color: white;
+    font-style: bold;
+    text-align: center;
+
+}
+h3{ 
+    color: white;
+    font-style: bold;
+    text-align: center;
+}
+img { 
+    margin: auto 50%;
+ transform: translatex(-50%);
+
+}
